@@ -1,2 +1,2 @@
 # learning-git-gub
-make a strong command in gitgub
+make a strong command in gitgub.
